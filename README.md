@@ -1,6 +1,12 @@
+<div align="center">
+
+<img width="128" height="128" alt="Circular" src="https://github.com/user-attachments/assets/c1bfa7fe-1d68-4abf-abd9-0574e820fcd7" />
+
 # Circular
 
-Circular 是使用 Kotlin 开发的 LSPosed 状态栏图标模块，用于自定义状态栏与下拉界面的图标样式。模块提供三合一图标、双卡排列、实时预览和细节设置。
+**Circular 是使用 Kotlin 开发的 LSPosed 状态栏图标模块，用于自定义状态栏与下拉界面的图标样式。模块提供三合一图标、双卡排列、实时预览和细节设置。**
+
+</div>
 
 ## 功能
 
